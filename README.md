@@ -1,6 +1,8 @@
 # EasyHealth
 A web app to select HealthCare facility most relevant to patients
 
+HEALTH CENTER
+
 1.   INSTALL XAMPP SERVER 
 2.   REQUEST DATABASE FROM ankitmohla24@gmail.com AND COPY IT TO C:\XAMPP\MYSQL\DATA
 3.   START APACHE AND MYSQL IN XAMPP SERVER
